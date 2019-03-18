@@ -7,11 +7,11 @@ public class Test {
        String s2=this.getClass().getResource("/").getPath();
        System.out.println(s1);
        System.out.println(s2);
-       System.out.println("hahahh!!!!");
+       System.out.println("hahahhah!!!!");
     }
  
     public static void main(String[] args) {
         new Test().run();
-        System.out.println("bbbbbb!!!");
+        System.out.println("hshsh");
     }
 }
